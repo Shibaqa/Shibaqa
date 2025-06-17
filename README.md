@@ -1,16 +1,32 @@
-## Hi there 👋
+Привет! Рад видеть тебя здесь 👋
+👨‍💻 Обо мне | About Me
+🔭 Python Backend Developer с более чем 1,5 годами опыта работы над корпоративными проектами.
+🌱 Постоянно учусь новым технологиям и совершенствую навыки решения задач на LeetCode.
+⚡ Специализируюсь на создании масштабируемых и эффективных серверных приложений и многом другом. В настоящий момент работаю в крупной корпорации, но из-за политики конфиденциальности не могу делиться проектами, над которыми тружусь.
+👨‍💻 About Me
+🔭 I’m a Python Backend Developer with 1.5+ years of experience working on enterprise projects.
+🌱 Continuously learning new technologies and solving problems on LeetCode.
+⚡ Specialized in microservices architecture and DevOps practices.
 
-<!--
-**Shibaqa/Shibaqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🛠️ Мой стек технологий | My Tech Stack:
+Backend:
+Python Django Flask FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases:
+PostgreSQL MySQL MongoDB Redis
+
+DevOps:
+Docker Kubernetes Nginx Jenkins
+
+Frontend:
+HTML5 CSS3 JavaScript React Bootstrap
+
+Testing:
+PyTest Selenium Postman
+
+Other Tools:
+Git Linux GraphQL Celery RabbitMQ
+
+🔗 Контакты | Contact Me:
+ Email Telegram
